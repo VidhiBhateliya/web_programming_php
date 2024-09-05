@@ -1,5 +1,3 @@
-
-<!-- Better spam filters … Now Drive automatically moves suspicious files shared with you to spam. You can still report spam yourself.Learn more -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -165,8 +163,3 @@
     </script>
 </body>
 </html>
-index.php
-
-Displaying index.php.
-clock.php
-Displaying clock.php.
