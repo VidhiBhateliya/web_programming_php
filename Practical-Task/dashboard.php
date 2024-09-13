@@ -170,25 +170,25 @@
                             <h2>About Me</h2>
                         </div>
                         <p><?php $ab=$_POST["ab"];
-							echo $ab;
-						?></p>
+				echo $ab;
+				?></p>
                     </div>
                     <div class="dashboard-item">
                         <div id="my-skillset" class="section-title">
                             <h2>My Skillset</h2>
                         </div>
                         <p><?php $sk=$_POST["sk"];
-							echo $sk;
-						?></p>
+				echo $sk;
+				?></p>
                     </div>
                     <div class="dashboard-item">
                         <div id="assignments" class="section-title">
                             <h2>Assignments</h2>
                         </div>
                         <div class="btn-group">
-						 <a href="https://github.com/VidhiBhateliya/web_programming_php/tree/main/TASK-1" target="_blank">
-						<button class="ocean-blue-button gradient-button">Task 1</button>
-						</a>
+		<a href="https://github.com/VidhiBhateliya/web_programming_php/tree/main/TASK-1" target="_blank">
+<button class="ocean-blue-button gradient-button">Task 1</button>
+		</a>
 <button class="sunset-orange-button gradient-button">Task 2</button>
 <button class="spring-green-button gradient-button">Task 3</button>
 <button class="royal-purple-button gradient-button">Task 4</button>
@@ -203,8 +203,8 @@
                             <h2>My Project Details</h2>
                         </div>
                         <p><?php $pd=$_POST["pd"];
-							echo $pd;
-						?></p>
+				echo $pd;
+				?></p>
                     </div>
                 </div>
             </main>
