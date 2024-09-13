@@ -92,16 +92,6 @@ html {
       <input type="text" name="pd" required="">
       <label>Project Details</label>
     </div>
-	<div>
-	<div class="user-box">
-	<a href="https://github.com/VidhiBhateliya/web_programming_php"></a>
-	</div>
-	<div class="user-box">
-	<a href="https://github.com/VidhiBhateliya/web_programming_php/tree/main/TASK-1"></a>
-	</div>
-	<div class="user-box">
-	<a href="https://sites.google.com/view/vidhibhateliya/home"></a>
-	</div>
       <input type="submit" value="submit">
     </div>
   </form>
