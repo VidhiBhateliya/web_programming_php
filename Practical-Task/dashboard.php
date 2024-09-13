@@ -144,10 +144,10 @@
                 </ul>
                 <h2>My Social Profiles</h2>
                 <ul class="list-group">
-                    <li class="list-group-item"><a href="https://www.google.com" target="_blank">Google Site</a></li>
+                    <li class="list-group-item"><a href="https://sites.google.com/view/vidhibhateliya" target="_blank">Google Site</a></li>
                     <li class="list-group-item"><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></li>
                     <li class="list-group-item"><a href="https://www.blog.com" target="_blank">Blog</a></li>
-                    <li class="list-group-item"><a href="https://www.github.com" target="_blank">GitHub</a></li>
+                    <li class="list-group-item"><a href="https://github.com/VidhiBhateliya/web_programming_php" target="_blank">GitHub</a></li>
                 </ul>
             </nav>
             <!-- Main content -->
