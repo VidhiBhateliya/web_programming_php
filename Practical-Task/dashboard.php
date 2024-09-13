@@ -186,9 +186,8 @@
                             <h2>Assignments</h2>
                         </div>
                         <div class="btn-group">
-		<a href="https://github.com/VidhiBhateliya/web_programming_php/tree/main/TASK-1" target="_blank">
-<button class="ocean-blue-button gradient-button">Task 1</button>
-		</a>
+<a href="https://github.com/VidhiBhateliya/web_programming_php/tree/main/TASK-1" target="_blank">
+	<button class="ocean-blue-button gradient-button">Task 1</button></a>
 <button class="sunset-orange-button gradient-button">Task 2</button>
 <button class="spring-green-button gradient-button">Task 3</button>
 <button class="royal-purple-button gradient-button">Task 4</button>
@@ -213,7 +212,7 @@
 
     <div id="footer">
         <h3>Footer Title</h3>
-        <img src="footer-logo.png" alt="Footer Logo" width="100">
+        <img src="logo1.png" alt="Footer Logo" width="100">
     </div>
 
     <!-- Add Bootstrap JS and Popper.js -->
