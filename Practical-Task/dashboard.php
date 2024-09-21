@@ -145,7 +145,7 @@
                 <h2>My Social Profiles</h2>
                 <ul class="list-group">
                     <li class="list-group-item"><a href="https://sites.google.com/view/vidhibhateliya" target="_blank">Google Site</a></li>
-                    <li class="list-group-item"><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></li>
+                    <li class="list-group-item"><a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></li>
                     <li class="list-group-item"><a href="https://www.blog.com" target="_blank">Blog</a></li>
                     <li class="list-group-item"><a href="https://github.com/VidhiBhateliya/web_programming_php" target="_blank">GitHub</a></li>
                 </ul>
@@ -170,29 +170,31 @@
                             <h2>About Me</h2>
                         </div>
                         <p><?php $ab=$_POST["ab"];
-				echo $ab;
-				?></p>
+							echo $ab;
+						?></p>
                     </div>
                     <div class="dashboard-item">
                         <div id="my-skillset" class="section-title">
                             <h2>My Skillset</h2>
                         </div>
                         <p><?php $sk=$_POST["sk"];
-				echo $sk;
-				?></p>
+							echo $sk;
+						?></p>
                     </div>
                     <div class="dashboard-item">
                         <div id="assignments" class="section-title">
                             <h2>Assignments</h2>
                         </div>
                         <div class="btn-group">
-<a href="https://github.com/VidhiBhateliya/web_programming_php/tree/main/TASK-1" target="_blank">
-	<button class="ocean-blue-button gradient-button">Task 1</button></a>
-<button class="sunset-orange-button gradient-button">Task 2</button>
-<button class="spring-green-button gradient-button">Task 3</button>
-<button class="royal-purple-button gradient-button">Task 4</button>
-<button class="ruby-red-button gradient-button">Task 5</button>
-<button class="goldenrod-yellow-button gradient-button">Minor Project Module</button><br>
+						 <a href="https://github.com/VidhiBhateliya/web_programming_php/tree/main/TASK-1" target="_blank">
+						<button class="ocean-blue-button gradient-button">Task 1</button>
+						</a>
+                        <a href="https://github.com/VidhiBhateliya/web_programming_php/tree/main/TASK-2" target="_blank">
+                        <button class="sunset-orange-button gradient-button">Task 2</button></a>
+                        <button class="spring-green-button gradient-button">Task 3</button>
+                        <button class="royal-purple-button gradient-button">Task 4</button>
+                        <button class="ruby-red-button gradient-button">Task 5</button>
+                        <button class="goldenrod-yellow-button gradient-button">Minor Project Module</button><br>
 
 <button class="spring-green-button gradient-button">Database  Module</button>
                         </div>
@@ -202,8 +204,8 @@
                             <h2>My Project Details</h2>
                         </div>
                         <p><?php $pd=$_POST["pd"];
-				echo $pd;
-				?></p>
+							echo $pd;
+						?></p>
                     </div>
                 </div>
             </main>
